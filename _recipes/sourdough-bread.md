@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: Sourdough
-image: sourdough.jpg
+title: Sourdough Bread
+image: sourdough-bread.jpg
 tags: 
 recipeYield: 2 Loaves
 
