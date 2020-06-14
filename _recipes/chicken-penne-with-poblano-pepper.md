@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: Chicken Penne with Poblano Pepper and Monterey Jack
-image: chicken-penne-with-poblano-pepper-and-monterey-jack.jpg
+title: Chicken Penne with Poblano Pepper
+image: chicken-penne-with-poblano-pepper.jpg
 tags: dinner
 recipeYield: 2
 
