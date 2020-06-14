@@ -12,7 +12,7 @@ ingredients:
 - 2 clove garlic
 - 1 roma tomato
 - 10 oz chicken breast strips
-- 1 tbsp southwest season
+- 1 tbsp southwest spice
 - 10 oz penne
 - 4 tbsp cream cheese
 - 1/4 cup shredded monterey jack
@@ -35,6 +35,6 @@ directions:
 - Add Monterey Jack, stock concentrate, 2 tbsp butter
 
 components:
-- Southwest Season Blend
+- Southwest Spice Blend
 
 ---
