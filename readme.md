@@ -2,7 +2,13 @@
 
 A simple, plaintext recipe database for hackers
 
+## Original
+
 [http://chowdown.io](http://chowdown.io)
+
+## The Eichmeier Cookbook
+
+[http://eichmeierbr.github.io/chowdown](http://eichmeierbr.github.io/chowdown)
 
 # Getting Started
 
