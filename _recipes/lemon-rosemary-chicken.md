@@ -11,7 +11,7 @@ recipeYield: 4 servings
 
 ingredients: 
 - 8 bone in, skin on chicken thighs
-- salt & pepper to taste
+- Salt and pepper to taste
 - 4 Tbsp olive oil, divided
 - 1.5 lb peewee potatoes (½ inch size)
 - 3 cloves garlic, minced
